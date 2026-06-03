@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+model.pkl
+vectorizer.pkl
+
+results.csv
+
+.vscode/
+
+.DS_Store
